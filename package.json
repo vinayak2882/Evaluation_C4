@@ -1,0 +1,26 @@
+{
+  "name": "evaluation_c4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayak2882/Evaluation_C4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayak2882/Evaluation_C4/issues"
+  },
+  "homepage": "https://github.com/vinayak2882/Evaluation_C4#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.8",
+    "redis": "^4.0.4"
+  }
+}
